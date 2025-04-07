@@ -10,7 +10,7 @@ Este projeto foi desenvolvido durante a **Semana do Zero ao Programador Contrata
 
 🚀 Acesse o projeto publicado no GitHub Pages:
 
-[https://seuusuario.github.io/projeto-dragon-ball-z/](https://seuusuario.github.io/projeto-dragon-ball-z/)
+[https://seuusuario.github.io/projeto-dragon-ball-z/](https://wanderlywrs.github.io/imersao-dev-em-dobro/)
 
 ---
 
