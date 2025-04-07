@@ -53,4 +53,4 @@ Durante o desenvolvimento deste projeto, foram abordados e praticados os seguint
 1. **Clone este repositório**:
 
    ```bash
-   git clone https://github.com/seuusuario/projeto-dragon-ball-z.git
+   git clone https://github.com/wanderlywrs/projeto-dragon-ball-z.git
